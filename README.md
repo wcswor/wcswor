@@ -1,4 +1,5 @@
+<h3 align="center"> Hi there 👋</h3>
 
-<p align="center"><img src="https://github.com/aletisunil/aletisunil/blob/master/IMG_0288.gif" /></p>
-
-
+<p align="center">
+I'm Akas, a self-motivated tech enthusiast and full stack web developer.
+</p>
